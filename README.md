@@ -1,4 +1,4 @@
-# file-server
+## file-server
 A simple command-line FTS (file transfer system) for linux
 
 
