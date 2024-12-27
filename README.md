@@ -8,7 +8,7 @@ Written in python
 Makefile not required
 
 ## Commands:
-  ### server
+  ### Server-side interaction
   ls [path]
   
   cd  [path]
@@ -21,7 +21,7 @@ Makefile not required
   
   get  [-r]  [path]
   
-  ### client
+  ### Client-side Interaction
   put  [-r]  [local-path]
   
   lls  [local-path]
