@@ -7,8 +7,7 @@ Written in python
 
 Makefile not required
 
-
-Commands:
+# Commands:
   
   ls [path]
   
